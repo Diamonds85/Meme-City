@@ -1,2 +1,2 @@
 # Meme-City
-[markdown meme ironic huh?](markdownmeme.png)
+[markdown meme ironic huh?](markdownmeme.jpg)
